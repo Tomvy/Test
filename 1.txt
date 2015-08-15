@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 123
+=======
+123
+<<<<<<< HEAD
+dasdasd
+
+
+sdasdddddddddddddddddddddd
+
+
+
+sa""""#%###
+=======
+dasdasd
+>>>>>>> parent of d519cca... edit
+>>>>>>> parent of 773062b... de
