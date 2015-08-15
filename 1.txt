@@ -1,4 +1,5 @@
 123
+<<<<<<< HEAD
 dasdasd
 
 
@@ -7,3 +8,6 @@ sdasdddddddddddddddddddddd
 
 
 sa""""#%###
+=======
+dasdasd
+>>>>>>> parent of d519cca... edit
